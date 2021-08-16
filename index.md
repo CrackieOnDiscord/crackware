@@ -8,4 +8,4 @@ U can download Crackware on the github
     for help go in https://discord.gg/d8UZzvAW to download and help
 ### 
 
-<a href="https://discord.gg/9UcBWdbkJv" >pornhub.com</a>  
+<a href="https://discord.gg/9UcBWdbkJv" >Discord</a>  
