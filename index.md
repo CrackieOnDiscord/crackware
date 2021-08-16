@@ -9,3 +9,4 @@ U can download Crackware on the github
 ### 
 
 <a href="https://discord.gg/9UcBWdbkJv" >Discord</a>  
+  join or gay
