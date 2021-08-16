@@ -2,14 +2,17 @@
 
 U can download Crackware on the source or https://discord.gg/d8UZzvAW
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<form action = "discord.com" method = "get">
+  <input type = "text" name = "fieldname"/>
+  <button type = "submit">
+    submit
+  </button>
+</form>
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
