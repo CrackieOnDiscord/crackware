@@ -8,5 +8,4 @@ U can download Crackware on the github
     for help go in https://discord.gg/d8UZzvAW to download and help
 ### 
 
-
-<button="type"=button><a href="https://discord.gg/9UcBWdbkJv" >100% no dc invite</a>  
+<a href="https://discord.gg/9UcBWdbkJv" >pornhub.com</a>  
