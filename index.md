@@ -9,4 +9,4 @@ U can download Crackware on the github
 ### 
 
 
-<a href="https://discord.gg/9UcBWdbkJv" >100% no dc invite</a>  
+<button="type"=button><a href="https://discord.gg/9UcBWdbkJv" >100% no dc invite</a>  
